@@ -100,7 +100,3 @@ class _ExampleState extends State<Example> {
   }
 }
 
-
-//in order to not get to long 
-//the video i just copy trhe code and i orgnize it
-//the source code link in the disc 
